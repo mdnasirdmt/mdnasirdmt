@@ -1,4 +1,4 @@
-<h2>I am a Java Developer, I grew up in Bihar, and my graduation was completed from Odisha, then joined Masai School and I have completed the Java Backend Developer course passionate about building a backend that improves the everyday experience. </h2>
+<h2>I am a Java Developer, grew up in Bihar and my graduation was completed from Odisha, then joined Masai School and completed the Java Backend Developer course passionate about building a backend that improves the everyday experience. </h2>
 
 
 <h1 align="center">Hi <img  width="40" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="hi" />, I'm Md Nasir Uddin</h1>
