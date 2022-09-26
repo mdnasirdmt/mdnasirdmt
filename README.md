@@ -5,13 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
-<h1>🔭 I’m currently pursuing JAVA Back-End</h1>
+<p🔭 I’m currently pursuing JAVA Back-End >
 
-
-    Fab bag clone   -  [https://github.com/mdnasirdmt/fab-bag-clone-again](https://github.com/mdnasirdmt/fab-bag-clone-again)
-
-
-    Kimayi clone - https://mdnasirdmt.github.io/kimaye_project/
 
 - 💬 Ask me about **java, JavaScript, Spring Boot, sql, Mysql**
 
