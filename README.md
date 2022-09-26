@@ -7,8 +7,8 @@
 
 <p>- I’m currently pursuing  JAVA Back-End </p>
 <p>- I’m currently learning  Spring Boot </p>
-<p>-  Ask me about    java, JavaScript, Spring Boot, sql, Mysql </p>
-<p>-  How to reach me <href  "mdnasirdmt@gmail.com">   </p>
+<p>-  Ask me about     java, JavaScript, Spring Boot, sql, Mysql </p>
+<p>-  How to reach me  mdnasirdmt@gmail.com  </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
