@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
-<p🔭 I’m currently pursuing JAVA Back-End >
+<p>🔭 I’m currently pursuing JAVA Back-End</p>
 
 
 - 💬 Ask me about **java, JavaScript, Spring Boot, sql, Mysql**
