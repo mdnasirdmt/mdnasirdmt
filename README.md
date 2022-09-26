@@ -5,13 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
-<p>🔭 I’m currently pursuing  JAVA Back-End </p>
-<p>🌱 I’m currently learning  Spring Boot </p>
-
-
-- 💬 Ask me about **java, JavaScript, Spring Boot, sql, Mysql**
-
-- 📫 How to reach me **mdnasirdmt@gmail.com**
+<p>- I’m currently pursuing  JAVA Back-End </p>
+<p>- I’m currently learning  Spring Boot </p>
+<p>-  Ask me about **java, JavaScript, Spring Boot, sql, Mysql </p>
+<p>-  How to reach me **mdnasirdmt@gmail.com </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
