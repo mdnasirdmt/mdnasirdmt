@@ -1,6 +1,6 @@
 <h2>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. A problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h2>
 
-<h3 align="center">A passionate Backend developer from India</h3>
+<h1>🔭 I’m currently pursuing JAVA Back-End</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
