@@ -1,7 +1,5 @@
 <h2>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. A problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h2>
 
-
-/*<h1 align="center"><img  width="40" src="" alt="" /></h1>*/
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
