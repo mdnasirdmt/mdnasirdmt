@@ -1,20 +1,22 @@
-<h2>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. A problem-solving mindset with a goal to optimize application for better stability and speed. Love to work in a team.</h2>
+<a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="@mdnasirdmt"  /></a>
 
+
+<h2>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. A problem-solving mindset with a goal to optimize application for better stability and speed. Love to work in a team.</h2>
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
-<p>- currently pursuing  JAVA Back-End </p>
-<p>- learning  Spring Boot </p>
-<p>-  Ask me about     java, JavaScript, Spring Boot, sql, Mysql </p>
+<p>- currently pursuing   JAVA Back-End </p>
+<p>- learning   Spring Boot </p>
+<p>-  Ask me about     java, JavaScript,  Spring Boot,  sql,  Mysql </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">  <a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png" alt="@mdnasirdmt" height="30" width="40" /></a>  <a href="https://www.linkedin.com/in/mdnasirdmt/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@mdnasirdmt" height="30" width="40" /></a>  <a href="https://md-nasiruddin-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1540097-1315600.png" alt="mdnasirdmt" height="30" width="40" /></a>
+<p align="left">  <a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png" alt="@mdnasirdmt" height="30" width="40" /></a>    <a href="https://www.linkedin.com/in/mdnasirdmt/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@mdnasirdmt" height="30" width="40" /></a>    <a href="https://md-nasiruddin-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1540097-1315600.png" alt="mdnasirdmt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="left"> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>    <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdnasirdmt&show_icons=true&locale=en&layout=compact" alt="mdnasirdmt" /></p>
 
