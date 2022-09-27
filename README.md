@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdnasirdmt" height="30" width="40" /></a>
 
-<a href="https://www.linkedin.com/in/mdnasirdmt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@mdnasirdmt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdnasirdmt/" target="blank"><img align="center" src="https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BjBzByv82QP6hh7%2F6zGnQkg%3D%3D" alt="@mdnasirdmt" height="30" width="40" /></a>
 
 <a href="https://www.hackerrank.com/mdnasirdmt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdnasirdmt" height="30" width="40" /></a>
 </p>
