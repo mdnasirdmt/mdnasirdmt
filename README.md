@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
 <p>- currently pursuing  JAVA Back-End </p>
-<p>- I’m learning  Spring Boot </p>
+<p>- learning  Spring Boot </p>
 <p>-  Ask me about     java, JavaScript, Spring Boot, sql, Mysql </p>
 
 <h3 align="left">Connect with me:</h3>
