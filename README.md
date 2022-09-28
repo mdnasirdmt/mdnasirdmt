@@ -20,7 +20,7 @@
 
 - 💬 Ask me about *Java,Spring Boot,Hibernate, MYSQL,*
 
-- 📫 How to reach me * mdnasirdmt@gmail.com,  mdnasirdmt@gmail.com*
+- 📫 How to reach me * mdnasirdmt@gmail.com
 
 - 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1bPYThK77dLfjw74_qDGi8EHEmlrtkS2l/view?usp=sharing)
 
