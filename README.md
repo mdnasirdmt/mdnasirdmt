@@ -1,4 +1,4 @@
-<a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" alt="@mdnasirdmt"  /></a>
+<a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="@mdnasirdmt"  /></a>
 
 
 <h2>A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, web design, and web API designs. A problem-solving mindset with a goal to optimize application for better stability and speed. Love to work in a team.</h2>
