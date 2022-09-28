@@ -1,34 +1,34 @@
 <img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding" width="800" height="300" >
 
-<h2 align="center">Hi 👋, I'm Amit Kumar</h2>
-<h3 align="center">A passionate Java Backend developer from Uttar Pradesh India</h3>
+<h2 align="center">Hi 👋, I'm Md Nasir Uddin </h2>
+<h3 align="center">A passionate Java Backend developer from Bihar India</h3>
 
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit0426&label=Profile%20views&color=0e75b6&style=flat" alt="amit0426" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit0426&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit0426" alt="amit0426" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit0426" alt="mdnasirdmt" /></a> </p>
 
 - 🌱 I’m currently learning *Spring Boot, MYSQL,Java,Hibernate, HTML,CSS,Javascript*
 
-- 👯 I’m looking to collaborate on [Dermstore Website Clone](https://62791fd6c7b50b145db9d00e--jazzy-torrone-e7ec7e.netlify.app/)
+- 👯 I’m looking to collaborate on [Dermstore Website Clone](https://mdnasirdmt.github.io/kimaye_project/)
 
-- 👨‍💻 All of my projects are available at  [Portfolio](https://cheerful-sprite-70e631.netlify.app)
+- 👨‍💻 All of my projects are available at  [Portfolio](https://md-nasiruddin-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on   [https://medium.com/@kumar7830137966](https://medium.com/@kumar7830137966)
+- 📝 I regularly write articles on   [https://medium.com/@mdnasirdmt](https://medium.com/@mdnasirdmt)
 
 - 💬 Ask me about *Java,Spring Boot,Hibernate, MYSQL,*
 
-- 📫 How to reach me * amitkumar9761785380@gmail.com,  kumar7830137966@gmail.com*
+- 📫 How to reach me * mdnasirdmt@gmail.com,  mdnasirdmt@gmail.com*
 
-- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1ZaGFNaKqBbKF7mVklls72Hd_BHKN0Mjv/view?usp=sharing)
+- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1bPYThK77dLfjw74_qDGi8EHEmlrtkS2l/view?usp=sharing)
 
 - ⚡ Fun fact *I think I am funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amit-kumar-3b570121a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-3b570121a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mdnasirdmt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdnasirdmt" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
 </p>
 
