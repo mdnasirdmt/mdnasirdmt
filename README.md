@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amit0426&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdnasirdmt&label=Profile%20views&color=0e75b6&style=flat" alt="mdnasirdmt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit0426" alt="mdnasirdmt" /></a> </p>
 
@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdnasirdmt&show_icons=true&locale=en" alt="mdnasirdmt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdnasirdmt&" alt="mdnasirdmt" /></p>
+<p><img align="center" src="https://github.com/mdnasirdmt/mdnasirdmt/blob/main/README.md" alt="mdnasirdmt" /></p>
