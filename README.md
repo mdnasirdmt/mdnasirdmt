@@ -9,7 +9,7 @@
 
 <p>- currently pursuing   JAVA Back-End </p>
 <p>- learning   Spring Boot </p>
-<p>-  Ask me about     java, JavaScript,  Spring Boot,  sql,  Mysql </p>
+<p>-  Ask me about     Java, JavaScript,  Spring Boot,  SQL,  MySql </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  <a href="https://medium.com/@mdnasirdmt" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/medium-3855923-3201557.png" alt="@mdnasirdmt" height="30" width="40" /></a>    <a href="https://www.linkedin.com/in/mdnasirdmt/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="@mdnasirdmt" height="30" width="40" /></a>    <a href="https://md-nasiruddin-portfolio.netlify.app/" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/portfolio-1540097-1315600.png" alt="mdnasirdmt" height="30" width="40" /></a>
