@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amit0426" alt="mdnasirdmt" /></a> </p>
 
-- 🌱 I’m currently learning *Spring Boot, MYSQL,Java,Hibernate, HTML,CSS,Javascript*
+- 🌱 currently learning *Spring Boot, MYSQL,Java,Hibernate, HTML,CSS,Javascript*
 
-- 👯 I’m looking to collaborate on [Kimaye Clone](https://mdnasirdmt.github.io/kimaye_project/)
+- 👯 looking to collaborate on [Kimaye Clone](https://mdnasirdmt.github.io/kimaye_project/)
 
 - 👨‍💻 All of my projects are available at  [Portfolio](https://md-nasiruddin-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on   [https://medium.com/@mdnasirdmt](https://medium.com/@mdnasirdmt)
+- 📝 regularly write articles on   [https://medium.com/@mdnasirdmt](https://medium.com/@mdnasirdmt)
 
 - 💬 Ask me about *Java,Spring Boot,Hibernate, MYSQL,*
 
