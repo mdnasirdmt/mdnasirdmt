@@ -14,7 +14,7 @@
 
 - 👯 looking to collaborate on [Kimaye Clone](https://mdnasirdmt.github.io/kimaye_project/)
 
-- 👨‍💻 All of my projects are available at  [Portfolio](https://md-nasiruddin-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at  [Portfolio](https://md-nasir-uddin-portfolio.netlify.app/)
 
 - 📝 regularly write articles on   [https://medium.com/@mdnasirdmt](https://medium.com/@mdnasirdmt)
 
