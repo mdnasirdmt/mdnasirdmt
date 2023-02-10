@@ -22,7 +22,7 @@
 
 - 📫 How to reach me * mdnasirdmt@gmail.com
 
-- 📄 Know about my experiences   [Resume]([https://drive.google.com/file/d/1bPYThK77dLfjw74_qDGi8EHEmlrtkS2l/view?usp=sharing](https://drive.google.com/drive/folders/1ucO4ZpEYckrdxFEbSEGkECe_l_cEkCMu?usp=sharing))
+- 📄 Know about my experiences   [Resume](https://drive.google.com/drive/folders/1ucO4ZpEYckrdxFEbSEGkECe_l_cEkCMu?usp=sharing)
 
 - ⚡ Fun fact *I think I am funny*
 
