@@ -1,6 +1,6 @@
 <img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding" width="800" height="300" >
 
-<h2 align="center">Hi 👋, I'm Md Nasir Uddin </h2>
+<h2 align="center">Hi 👋, I am Md Nasir Uddin </h2>
 <h3 align="center">A passionate Java Backend developer from Bihar India</h3>
 
 
