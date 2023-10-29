@@ -1,7 +1,7 @@
 <img align="center" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" alt="Coding" width="800" height="300" >
 
 <h2 align="center">Hi 👋, I am Md Nasir Uddin </h2>
-<h3 align="center">A passionate Java Backend developer from Bihar India</h3>
+<h3 align="center">A passionate Full Stack developer from Bihar India</h3>
 
 
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnasirdmt" alt="mdnasirdmt" /></a> </p>
 
-- 🌱 currently learning *Spring Boot, MYSQL,Java,Hibernate, HTML,CSS,Javascript*
+- 🌱 currently learning * React, MongoDb, Express, Tailwind, Mongo Atlas, Java, Sql, MySql, Spring Boot, HTML,CSS,Javascript*
 
 - 👯 looking to collaborate on [Kimaye Clone](https://mdnasirdmt.github.io/kimaye_project/)
 
@@ -18,11 +18,11 @@
 
 - 📝 regularly write articles on   [https://medium.com/@mdnasirdmt](https://medium.com/@mdnasirdmt)
 
-- 💬 Ask me about *Java,Spring Boot,Hibernate, MYSQL,*
+- 💬 Ask me about *React, MongoDb, Express, Tailwind, Mongo Atlas*
 
 - 📫 How to reach me * mdnasirdmt@gmail.com
 
-- 📄 Know about my experiences   [Resume](https://drive.google.com/file/d/1V44ezRH-QczXr7NFk02NLjwTG0_3tb78/view?usp=sharing)
+- 📄 Know about my experiences   [Resume](https://drive.google.com/drive/folders/1H1dFDvyPIFHqU7InqVPbNq40qiv-FmzA?usp=sharing)
 
 - ⚡ Fun fact *I think I am funny*
 
