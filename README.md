@@ -11,6 +11,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdnasirdmt" alt="mdnasirdmt" /></a> </p>
 
 - 🌱 currently learning * React, MongoDb, Express, Tailwind, Mongo Atlas, Java, Sql, MySql, Spring Boot, HTML,CSS,Javascript*
+-  👯 looking to collaborate on [Currency Converter](https://mdnasirdmt.github.io/currency-converter/)
 
 - 👯 looking to collaborate on [Kimaye Clone](https://mdnasirdmt.github.io/kimaye_project/)
 
